@@ -1,0 +1,1 @@
+xhost si:localuser:root; sudo qemu-system-x86_64 -enable-kvm -cpu host -smp 4 -m 8G -drive format=raw,file=/dev/sdb

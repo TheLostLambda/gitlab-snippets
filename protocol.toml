@@ -1,0 +1,40 @@
+[protocol]
+name = "Arabidopsis v1.0"
+doi = "10.1000/xyz123"
+date = 2020-02-01
+
+[[setpoints]]
+day = 0
+pfd = 0
+temp = 6
+humid = 100
+water = 100
+
+[[setpoints]]
+day = 1
+water = 0
+
+[[setpoints]]
+day = 4
+pfd = 70
+temp = 22
+humid = 90
+
+[[setpoints]]
+day = 10
+pfd = 150
+humid = 60
+water = 50
+
+[[setpoints]]
+day = 20
+water = 100
+
+[[setpoints]]
+day = 48
+humid = 40
+water = 50
+
+[[setpoints]]
+day = 53
+water = 0
